@@ -26,7 +26,6 @@ Tendo a primeira oportunidade na área de tecnologia ***Foursys tecnologia*** co
 * 👪 Pai de família;
 
 ### Objetivo
-<br />
 
 * 💻 Aprender a desenvolver; <br />
 * 📰 Ter uma profissão dentro da área de TI;<br />
