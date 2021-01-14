@@ -16,10 +16,7 @@ Um desenvolvedor em desenvolvimento.
 Meu nome é Michael Carlos Knopacki, 36 anos, Curitiba, Paraná.
 
 Tendo a primeira oportunidade na área de tecnologia ***Foursys tecnologia*** como Trainee Android.
-
-<br/>
 ## Um pouco sobre mim:
-
 
 * 📓 Formado em 2020 pela Unicesumar em Análise e Desenvolvimento de Sistemas;<br />
 * 💻 Apreendendo Android, Professor Adriano Leite da Silva;<br />
