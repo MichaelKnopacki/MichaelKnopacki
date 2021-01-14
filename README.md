@@ -23,8 +23,13 @@ Essa está sendo a minha primeira jornada nesse mundo da tecnologia.
 💻 Apreendendo Android, Professor Adriano Leite da Silva<br />
 🎧 Rockeiro<br />
 ⚽ Torcedor do Athletico Paranaense <br />
-🏁 Doente por automobilismo
-<br/>
+🏁 Doente por automobilismo<br/>
+
+### Objetivo
+<br />
+1 . 💻 Aprender desenvolver; <br />
+2 . 📰 Ter uma profissão dentro da área de TI;<br />
+3 . 🔝 Sempre buscar aprefeiçoamento
 <br/>
 ___________________________________________
 <br/>
