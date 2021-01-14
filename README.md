@@ -19,7 +19,7 @@ Tendo a primeira oportunidade na área de tecnologia ***Foursys tecnologia*** co
 
 <br/>
 ## Um pouco sobre mim:
-<br/>
+
 
 * 📓 Formado em 2020 pela Unicesumar em Análise e Desenvolvimento de Sistemas;<br />
 * 💻 Apreendendo Android, Professor Adriano Leite da Silva;<br />
