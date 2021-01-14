@@ -35,7 +35,12 @@ Essa está sendo a minha primeira jornada nesse mundo da tecnologia.
 ___________________________________________
 <br/>
 
+## Meu Status no Github
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MichaelKnopacki&show_icons=true&locale=en" alt="Michael Carlos Knopacki" />
+
 ### Tecnologia, Ferramentas & Linguagens
+
 
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
