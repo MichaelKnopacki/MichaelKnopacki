@@ -28,9 +28,9 @@ Essa está sendo a minha primeira jornada nesse mundo da tecnologia.
 
 ### Objetivo
 <br />
-1 . 💻 Aprender desenvolver; <br />
+1 . 💻 Aprender a desenvolver; <br />
 2 . 📰 Ter uma profissão dentro da área de TI;<br />
-3 . 🔝 Sempre buscar aprefeiçoamento
+3 . 🔝 Sempre buscar aperfeiçoamento;
 <br/>
 ___________________________________________
 <br/>
