@@ -12,7 +12,7 @@
 <br/>
 Um desenvolvedor em desenvolvimento. 
 
-Meu nome é Michael Carlos Knopacki, 36 anos, Curitiba, PR .
+Meu nome é Michael Carlos Knopacki, 36 anos, Curitiba, PR.
 Tendo a primeira oportunidade na Foursys tecnologia como Trainee Android.
 
 Essa está sendo a minha primeira jornada nesse mundo da tecnologia.
