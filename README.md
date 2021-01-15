@@ -1,9 +1,10 @@
 
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/michael-knopacki/)
-[![followersGit](https://img.shields.io/github/followers/MichaelKnopacki?style=social)](https://github.com/MichaelKnopacki)
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/michael_knopack) 
-<img src="https://komarev.com/ghpvc/?username=MichaelKnopacki&label=Profile%20views&color=0e75b6&style=social" alt="Adriano Leite da Silva" />![Dev](https://img.shields.io/badge/Dev-MichaelKnopacki-red)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=style=flat-square&logo=appveyor)](https://www.linkedin.com/in/michael-knopacki/)
+[![Whats](https://img.shields.io/badge/-25D366?label=Whatsapp&logo=whatsapp&style=style=flat-square&logo=appveyor)](https://api.whatsapp.com/41996133475)
+[![followersGit](https://img.shields.io/github/followers/MichaelKnopacki?style=style=flat-square&logo=appveyor)](https://github.com/MichaelKnopacki)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=style=flat-square&logo=appveyor)](https://twitter.com/michael_knopack) 
+<img src="https://komarev.com/ghpvc/?username=MichaelKnopacki&label=Profile%20views&color=0e75b6&style=flat-square&logo=appveyor" alt="Michael Carlos Knopacki" />![Dev](https://img.shields.io/badge/Dev-MichaelKnopacki-red)
 
 ## Salve Alienigenas 
 <img src="https://github.com/MichaelKnopacki/MichaelKnopacki/blob/main/Roger.gif" width="150px">
