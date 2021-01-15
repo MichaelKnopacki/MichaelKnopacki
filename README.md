@@ -17,12 +17,12 @@ Um desenvolvedor em desenvolvimento.
 Meu nome é Michael Carlos Knopacki, 36 anos, Curitiba, Paraná.
 
 Tendo a primeira oportunidade na área de tecnologia ***Foursys tecnologia*** como Trainee Android.
-## Conteudo
+# Conteudo
 
- - [Um pouco sobre mim](#Umpoucosobremim)
- - [Objetivo](#Objetivo)
- - [Meu Status no Github](#Meustatusnogithub)
- - [Tecnologia, Ferramentas & Linguagens](#Tecnologia)
+ - [Um pouco sobre mim](#um-pouco-sobre-mim)
+ - [Objetivo](#objetivo)
+ - [Meu Status no Github](#meu-status-no-github)
+ - [Tecnologia, Ferramentas & Linguagens](#tecnologia-e-ferramentas)
 
 ## Um pouco sobre mim:
 
@@ -43,12 +43,9 @@ ___________________________________________
 <br/>
 
 ## Meu Status no Github
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MichaelKnopacki&theme=dracula&show_icons=true&locale=en" alt="Michael Carlos Knopacki" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MichaelKnopacki&show_icons=true&locale=en" alt="Michael Carlos Knopacki" />
-
-### Tecnologia, Ferramentas & Linguagens
-
-
+### Tecnologia e Ferramentas 
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
@@ -56,4 +53,5 @@ ___________________________________________
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
 
-[Voltar ao Topo](#SalveAlienigenas)
+[Voltar ao Topo](#salve-alienigenas)
+
