@@ -21,6 +21,8 @@ Tendo a primeira oportunidade na área de tecnologia ***Foursys tecnologia*** co
 
  - [Um pouco sobre mim](#um-pouco-sobre-mim)
  - [Objetivo](#objetivo)
+ - [Ferramentas Utilizadas](#ferramentas_utilizadas)
+    - [Visual Studio](#visual_studio)
  - [Meu Status no Github](#meu-status-no-github)
  - [Tecnologia, Ferramentas & Linguagens](#tecnologia-e-ferramentas)
 
@@ -40,7 +42,13 @@ Tendo a primeira oportunidade na área de tecnologia ***Foursys tecnologia*** co
 * 🔝 Sempre buscando aperfeiçoamento;
 <br/>
 ___________________________________________
-<br/>
+
+# Ferramentas Utilizadas
+### Visual Studio
+
+ <img src="https://user-images.githubusercontent.com/77402918/104929999-5d8c5d80-5983-11eb-86c8-3d4bce673b83.png" width="50px"><br />
+ Microsoft Visual Studio é um ambiente de desenvolvimento integrado da Microsoft para desenvolvimento de software especialmente dedicado ao .NET Framework e às linguagens Visual Basic, C, C++, C# e F#
+
 
 ## Meu Status no Github
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MichaelKnopacki&theme=dracula&show_icons=true&locale=en" alt="Michael Carlos Knopacki" />
