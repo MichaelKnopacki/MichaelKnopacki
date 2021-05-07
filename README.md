@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=MichaelKnopacki&label=Profile%20views&color=0e75b6&style=flat-square&logo=appveyor" alt="Michael Carlos Knopacki" />![Dev](https://img.shields.io/badge/Dev-MichaelKnopacki-red)
 
 ## Salve Alienigenas 
-<img src="https://github.com/MichaelKnopacki/MichaelKnopacki/blob/main/Roger.gif" width="150px">
+
 <br/>
 
 -----------------------------------------
