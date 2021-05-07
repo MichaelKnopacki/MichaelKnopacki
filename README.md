@@ -1,6 +1,6 @@
 
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=style=flat-square&logo=appveyor)](https://www.linkedin.com/in/%F0%9F%94%B5-michael-knopacki-83a27667/)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=style=flat-square&logo=appveyor)](https://www.linkedin.com/in/michael-knopacki-83a27667/)
 [![whats](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/41996133475)
 [![followersGit](https://img.shields.io/github/followers/MichaelKnopacki?style=style=flat-square&logo=appveyor)](https://github.com/MichaelKnopacki)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=style=flat-square&logo=appveyor)](https://twitter.com/michael_knopack) 
