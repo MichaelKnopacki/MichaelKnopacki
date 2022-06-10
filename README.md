@@ -6,15 +6,15 @@
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=style=flat-square&logo=appveyor)](https://twitter.com/michael_knopack) 
 <img src="https://komarev.com/ghpvc/?username=MichaelKnopacki&label=Profile%20views&color=0e75b6&style=flat-square&logo=appveyor" alt="Michael Carlos Knopacki" />![Dev](https://img.shields.io/badge/Dev-MichaelKnopacki-red)
 
-## Salve Alienigenas 
+## Salve Alienigenas 👽
 
 <br/>
 
 -----------------------------------------
 <br/>
-Um desenvolvedor em desenvolvimento. 
+Um desenvolvedor em desenvolvimento. 👷
 
-Meu nome é Michael Carlos Knopacki, 36 anos, Curitiba, Paraná.
+Meu nome é Michael Carlos Knopacki, 38 anos, Curitiba, Paraná.
 
 Tendo a primeira oportunidade na área de tecnologia ***Foursys tecnologia*** como Trainee Android.
 # Conteudo
