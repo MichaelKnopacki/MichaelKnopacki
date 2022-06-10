@@ -28,7 +28,7 @@ Tendo a primeira oportunidade na área de tecnologia ***Foursys tecnologia*** co
 ## Um pouco sobre mim:
 
 * 📓 Formado em 2020 pela Unicesumar em Análise e Desenvolvimento de Sistemas;<br />
-* 💻 Apreendendo Android, Professor Adriano Leite da Silva;<br />
+* 💻 Apreendendo Android<br />
 * 🎧 Rockeiro;<br />
 * ⚽ Torcedor do Athletico Paranaense; <br />
 * 🏁 Doente por automobilismo;<br/>
@@ -37,7 +37,6 @@ Tendo a primeira oportunidade na área de tecnologia ***Foursys tecnologia*** co
 ### Objetivo
 
 * 💻 Aprender a desenvolver; <br />
-* 📰 Ter uma profissão dentro da área de TI;<br />
 * 🔝 Sempre buscando aperfeiçoamento;
 <br/>
 ___________________________________________
