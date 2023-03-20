@@ -10,15 +10,15 @@
 
 Um desenvolvedor em desenvolvimento. 👷
 
-Em 2018 iniciei o curso de Análise e desenvolvimento de sistemas dentro da Unicesumar com intuito de fazer algo novo e que eu me sentisse útil no período da noite.
+💻Em 2018 iniciei o curso de Análise e Desenvolvimento de Sistemas na Unicesumar com intuito de fazer algo novo e que eu me fizesse sentir útil no período da noite.
 
-Em 2020 quase no fim do curso resolvi realizar a transição de carreira. Saindo de um cargo de Vendedor em uma empresa que trabalhei nove anos, para me arriscar na área de tecnologia. Logo em seguida me formei em Análise e Desenvolvimento de Sistemas.
+🎓Em 2020, quase no fim do curso, resolvi realizar a transição de carreira, saindo de um cargo de Vendedor em uma empresa que trabalhei durante nove anos, para me arriscar na área de tecnologia. Logo em seguida me formei em Análise e Desenvolvimento de Sistemas.
 
-Em Dezembro de 2020 recebi meu tão sonhado sim. Iniciando na Foursys em Janeiro de 2021 no programa de trainee voltado a desenvolvedores Android finalizado em Maio daquele mesmo ano.
+🌅Em Dezembro de 2020 recebi meu tão sonhado sim. Iniciando na Foursys, em Janeiro de 2021, o programa de trainee voltado a desenvolvedores Android Java, o qual foi finalizado em Maio do mesmo ano.
 
-Em Agosto de 2021 fui alocado na squad CRM dentro do Banco Next, onde iniciei como trainee e sai em Fevereiro de 2023 como Desenvolvedor Junior. Dentro da squad aprendi como era o dia de um projeto do tamanho do banco NEXT, aprendi metodologia ágil,  aprimorei meu conhecimento em desenvolvimento Android Nativo Java e contribuí para melhorias do aplicativo.
+📲Em Agosto de 2021 fui alocado na squad CRM dentro do Banco Next, onde iniciei como trainee e sai em Fevereiro de 2023 como Desenvolvedor Júnior. Dentro dessa squad aprendi como era o dia a dia de trabalho em um grande projeto e como conduzi-lo com a utilização da metodologia ágil. Ademais, aprimorei meu conhecimento em desenvolvimento Android Nativo Java e contribuí para melhorias do aplicativo.
 
-Hoje continuo aprimorando meus estudos dentro da programação especialmente em Android Nativo, através de BootCamps, cursos pago e gratuitos além de aprimorar meu inglês.
+🚀Atualmente continuo aprimorando meus estudos dentro da programação, especialmente em Android Nativo, através de BootCamps, cursos pagos e gratuitos. Além disso, tenho buscado aperfeiçoar meu inglês.
 
 # Conteudo
 
