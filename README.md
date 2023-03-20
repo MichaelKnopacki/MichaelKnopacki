@@ -8,7 +8,7 @@
 
 ## Salve Alienigenas 👽
 
-Um desenvolvedor em desenvolvimento. 👷 \n
+Um desenvolvedor em desenvolvimento. 👷
 
 Em 2018 iniciei o curso de Análise e desenvolvimento de sistemas dentro da Unicesumar com intuito de fazer algo novo e que eu me sentisse útil no período da noite.
 
