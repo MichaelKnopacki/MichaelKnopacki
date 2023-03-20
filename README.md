@@ -9,11 +9,7 @@
 ## Salve Alienigenas 👽
 
 <br/>
-
------------------------------------------
-<br/>
-Um desenvolvedor em desenvolvimento. 👷
-<br/>
+Um desenvolvedor em desenvolvimento. 👷<br/>
 Em 2018 iniciei o curso de Análise e desenvolvimento de sistemas dentro da Unicesumar com intuito de fazer algo novo e que eu me sentisse útil no período da noite.
 
 Em 2020 quase no fim do curso resolvi realizar a transição de carreira. Saindo de um cargo de Vendedor em uma empresa que trabalhei nove anos, para me arriscar na área de tecnologia. Logo em seguida me formei em Análise e Desenvolvimento de Sistemas.
